@@ -1,2 +1,2 @@
 # AutomacaoDeProcesso
-Process Automatio
+Process Automatic
